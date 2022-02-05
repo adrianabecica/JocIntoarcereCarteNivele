@@ -1,0 +1,28 @@
+C:\Users\Adriana\source\repos\Tema_6\Tema_6\obj\Debug\Tema_6.csprojAssemblyReference.cache
+C:\Users\Adriana\source\repos\Tema_6\Tema_6\obj\Debug\Tema_6.Form1.resources
+C:\Users\Adriana\source\repos\Tema_6\Tema_6\obj\Debug\Tema_6.Properties.Resources.resources
+C:\Users\Adriana\source\repos\Tema_6\Tema_6\obj\Debug\Tema_6.csproj.GenerateResource.cache
+C:\Users\Adriana\source\repos\Tema_6\Tema_6\obj\Debug\Tema_6.csproj.CoreCompileInputs.cache
+C:\Users\Adriana\source\repos\Tema_6\Tema_6\bin\Debug\Tema_6.exe.config
+C:\Users\Adriana\source\repos\Tema_6\Tema_6\bin\Debug\Tema_6.exe
+C:\Users\Adriana\source\repos\Tema_6\Tema_6\bin\Debug\Tema_6.pdb
+C:\Users\Adriana\source\repos\Tema_6\Tema_6\obj\Debug\Tema_6.exe
+C:\Users\Adriana\source\repos\Tema_6\Tema_6\obj\Debug\Tema_6.pdb
+C:\Users\Adriana\source\repos\Tema_6\Tema_6\obj\Debug\Tema_6.Incepator.resources
+C:\Users\Adriana\source\repos\Tema_6\Tema_6\obj\Debug\Tema_6.Mediu.resources
+C:\Users\Adriana\source\repos\Tema_6\Tema_6\obj\Debug\Tema_6.Avansat.resources
+C:\Users\Adriana\source\repos\Tema_6\Tema_6\obj\Debug\Tema_6.Form2.resources
+D:\anul 2 facultate\semestrul 2\PIU\Tema_6\Tema_6\bin\Debug\Tema_6.exe.config
+D:\anul 2 facultate\semestrul 2\PIU\Tema_6\Tema_6\bin\Debug\Tema_6.exe
+D:\anul 2 facultate\semestrul 2\PIU\Tema_6\Tema_6\bin\Debug\Tema_6.pdb
+D:\anul 2 facultate\semestrul 2\PIU\Tema_6\Tema_6\obj\Debug\Tema_6.csproj.AssemblyReference.cache
+D:\anul 2 facultate\semestrul 2\PIU\Tema_6\Tema_6\obj\Debug\Tema_6.Avansat.resources
+D:\anul 2 facultate\semestrul 2\PIU\Tema_6\Tema_6\obj\Debug\Tema_6.Form1.resources
+D:\anul 2 facultate\semestrul 2\PIU\Tema_6\Tema_6\obj\Debug\Tema_6.Form2.resources
+D:\anul 2 facultate\semestrul 2\PIU\Tema_6\Tema_6\obj\Debug\Tema_6.Incepator.resources
+D:\anul 2 facultate\semestrul 2\PIU\Tema_6\Tema_6\obj\Debug\Tema_6.Mediu.resources
+D:\anul 2 facultate\semestrul 2\PIU\Tema_6\Tema_6\obj\Debug\Tema_6.Properties.Resources.resources
+D:\anul 2 facultate\semestrul 2\PIU\Tema_6\Tema_6\obj\Debug\Tema_6.csproj.GenerateResource.cache
+D:\anul 2 facultate\semestrul 2\PIU\Tema_6\Tema_6\obj\Debug\Tema_6.csproj.CoreCompileInputs.cache
+D:\anul 2 facultate\semestrul 2\PIU\Tema_6\Tema_6\obj\Debug\Tema_6.exe
+D:\anul 2 facultate\semestrul 2\PIU\Tema_6\Tema_6\obj\Debug\Tema_6.pdb
